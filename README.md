@@ -34,7 +34,7 @@ Output:
 ## Contributing
 
 Please fork this repository and contribute back using
-[pull requests](https://github.com/amoghj03/Bus-Ticket-Booking-App/pulls).
+[pull requests](https://github.com/amoghj03/Tortoise-and-Hare-Story-OpenGL/pulls).
 
 ### Contact - Let's become friend
 - [Github](https://github.com/amoghj03)
